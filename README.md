@@ -1,8 +1,7 @@
 # SeleniumHybridFramework
 
-### This is a custom framework that utilizes industry standards like POM and the page factory model with some of my tweaks to revamp selenium execution.
-
-#### Here are some key features of this framework:
+### This is a custom Selenium framework that utilizes industry standards like POM and the page factory model with some of my tweaks to revamp Selenium execution.
+### Here are some key features of this framework:
 
 - Parallel execution: Test cases can be executed concurrently, maximizing time efficiency.
 - Combination of linear and parallel execution: Test suite execution is optimized by combining linear and parallel approaches, especially for multi-suit scenarios.
