@@ -1,6 +1,6 @@
 # Selenium Hybrid Framework
 
-### This is a custom Selenium Hybrid Framework that utilizes industry standards like POM (Page object Model) and the page factory model with some of my tweaks to revamp Selenium execution.
+### This is a custom Selenium Hybrid Framework that utilizes industry standards like POM (Page object Model) and the page factory model with some of my tweaks to revamp test execution.
 ### Here are some key features of this framework:
 
 * **[Parallel execution:]()** Test cases can be executed concurrently, maximizing time efficiency.
